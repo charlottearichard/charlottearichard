@@ -6,6 +6,7 @@
 <img src="https://user-images.githubusercontent.com/101064266/179419345-f949c333-d2c5-427b-9d08-734eb74fe0e5.gif" alt="left-side img" align="left" width="400" height="auto"/> 
 
 
+
 <h1 align="center"> ABOUT ME </h1>
 <p> 👩🏾‍🏫 10th grade english literature teacher </p> 
 <p> ☀️  Resides in the sunshine state.  </p>
@@ -13,9 +14,21 @@
 <p> 🎨 Designer </p>
 
 <br>
+<br>
+<div> 
+
+<a align="left" href="https://github.com/anuraghazra/github-readme-stats">
+  <img  width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlottearichard&layout=compact)](https://github.com/charlottearichard/github-readme-stats)" />
+</a>
+
+<img src="https://user-images.githubusercontent.com/101064266/179422613-78333e0b-cea0-4b6f-94a6-ce4839d9cb1d.gif" alt="left-side img" align="right" width="400" height="auto"/> 
+</div>
+
+
+
 
  
- 
+
 
 <br> 
 <h2 align="center">CONNECT WITH ME:</h2>
