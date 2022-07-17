@@ -14,12 +14,11 @@
 
 <br><br>
 
- <img width="800" height="auto" align= "center" src="https://github-readme-streak-stats.herokuapp.com/?user=charlottearichard&hide_border=true&theme=nightowl" />
  
  
 
 <br> <br>
-<h3 align="center">CONNECT WITH ME:</h3>
+<h2 align="center">CONNECT WITH ME:</h2>
 <p align="center">
   <a href="mailto:charlottearichard@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/charlottearichard"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
