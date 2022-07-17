@@ -12,12 +12,12 @@
 <p> 👩🏾‍💻 Full stack web developer </p> 
 <p> 🎨 Designer </p>
 
-<br><br>
+<br>
 
  
  
 
-<br> <br>
+<br> 
 <h2 align="center">CONNECT WITH ME:</h2>
 <p align="center">
   <a href="mailto:charlottearichard@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
