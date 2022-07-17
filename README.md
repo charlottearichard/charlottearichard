@@ -1,21 +1,10 @@
 
 
-<img width="1241" alt="Screen Shot 2022-07-17 at 12 37 49 PM" src="https://user-images.githubusercontent.com/101064266/179414446-b795002d-0569-43b2-9059-7e0e9171e8c9.png">
+<img width="1241"  src="https://user-images.githubusercontent.com/101064266/179414446-b795002d-0569-43b2-9059-7e0e9171e8c9.png">
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/charlottearichard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charlottearichard" height="30" width="40" /></a>
+<a href="https://instagram.com/charlottearichard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="charlottearichard" height="30" width="40" /></a>
+</p>
 
-### Hi there 👋
-
-<!--
-**charlottearichard/charlottearichard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
