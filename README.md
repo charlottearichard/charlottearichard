@@ -14,20 +14,7 @@
 <p> 🎨 Designer </p>
 
 <br>
-<br>
-<div> 
 
-<a align="left" href="https://github.com/anuraghazra/github-readme-stats">
-  <img  width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlottearichard&layout=compact)](https://github.com/charlottearichard/github-readme-stats)" />
-</a>
-
-<img src="https://user-images.githubusercontent.com/101064266/179422613-78333e0b-cea0-4b6f-94a6-ce4839d9cb1d.gif" alt="left-side img" align="right" width="400" height="auto"/> 
-</div>
-
-
-
-
- 
 
 
 <br> 
